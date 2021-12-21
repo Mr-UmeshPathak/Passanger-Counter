@@ -1,0 +1,45 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: turquoise;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+#count-el{
+    display: flex;
+    justify-content: center;
+}
+
+.btn1{
+    display: flex;
+    justify-content: center;
+}
+
+#increment{
+    background-color: cyan;
+    width: 20%;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#save-btn{
+    background-color: cyan;
+    width: 20%;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn2{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+#save-el{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
